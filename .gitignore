@@ -67,3 +67,7 @@ yarn-error.log
 .pnp.js
 # Yarn Integrity file
 .yarn-integrity
+
+crystology-tarot-deck-export.json
+firebase.json
+firestore.js
